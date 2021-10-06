@@ -143,6 +143,8 @@ When you use our dataset in your work, please cite our paper:
 >
 > The Copyright Agent should only be contacted if you believe that your work has been used or copied in a way that constitutes copyright infringement and such infringement is occurring on or through the Dataset. The Copyright Agent will not respond to any other inquiries.
 
-**[DOWNLOAD](resources/dataset.zip)**
+**[DOWNLOAD](resources/contract-nli.zip)**
 
 ## Changelog and release note
+
+* 10/5/2021: Initial release
